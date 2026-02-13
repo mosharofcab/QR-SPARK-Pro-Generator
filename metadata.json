@@ -1,0 +1,5 @@
+{
+  "name": "QR Spark Pro",
+  "description": "A high-performance QR code generator that converts text, URLs, and data into high-quality QR codes with instant export to PNG, JPG, and PDF formats.",
+  "requestFramePermissions": []
+}
